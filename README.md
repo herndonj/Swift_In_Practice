@@ -27,4 +27,4 @@ The title says "iOS," but the first 100 pages a quick, clear introduction to Swi
 
 ## Observations/Commentaries/Digressions
 
-- Many people are surprised- but it's true... you can use Swift on a linux machine and you don't have to use Xcode. I've had a great luck in Digital Ocean Droplett using Ubuntu. [Apple's Swift Playgrounds](https://www.apple.com/swift/playgrounds/) provides a light environment for testing Swift code with a REPL. I seem to find myself debugging small pieces of code in the terminal on my mac while I'm working on larger things in Xcode.
+- Many people are surprised- but it's true... you can use Swift on a linux machine and you don't have to use Xcode. I've had great luck using a [Digital Ocean droplet](https://www.digitalocean.com/products/droplets/) (ubuntu) as a space to test swift code on the command line. [Apple's Swift Playgrounds](https://www.apple.com/swift/playgrounds/) provides a light environment for testing Swift code with a REPL. I seem to find myself debugging small pieces of code in the terminal on my mac while I'm working on larger things in Xcode.

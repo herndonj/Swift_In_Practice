@@ -4,7 +4,8 @@ Observations and resources on learning/using Swift from the perspective of R and
 ## Language Notes/Observations
 
 ### Dataframes
-I admit that the buzz around Swift as an up and coming language for data science caught my attention. While Swift does have support for [Tensorflow](https://www.tensorflow.org/swift/) and you can code in Swift in [Google's Colab](https://colab.research.google.com/notebooks/intro.ipynb), I have yet to find anything close (a pre-built solution) to R or Pandas dataframes in Swift. I'd be delighted to be corrected- just let me know! 
+I admit that the buzz around Swift as an up and coming language for data science caught my attention. While Swift does have support for [Tensorflow](https://www.tensorflow.org/swift/) and you can code in Swift in [Google's Colab](https://colab.research.google.com/notebooks/intro.ipynb), I 
+have yet to find anything close (a pre-built solution) to R or Pandas dataframes in Swift. I'd be delighted to be corrected- just let me know! 
 
 ## Resources
 Unless otherwise noted, I've used the following resources while exploring Swift.
@@ -24,4 +25,4 @@ The title says "iOS," but the first 100 pages a quick, clear introduction to Swi
 
 ## Observations/Commentaries/Digressions
 
-- Many people are surprised- but it's true... you can use Swift on a linux machine and you don't have to use Xcode. I've had great luck using a [Digital Ocean droplet](https://www.digitalocean.com/products/droplets/) (ubuntu) as a space to test swift code on the command line. [Apple's Swift Playgrounds](https://www.apple.com/swift/playgrounds/) provides a light environment for testing Swift code with a REPL. I seem to find myself debugging small pieces of code in the terminal on my mac while I'm working on larger things in Xcode.
+- Many people are surprised- but it's true... you can use Swift on a linux machine and you don't have to use Xcode. I've had great luck using a [Digital Ocean droplet](https://www.digitalocean.com/products/droplets/) (ubuntu) as a space to test swift code on the command line. [Apple's Swift Playgrounds](https://www.apple.com/swift/playgrounds/) provides a light environment for testing [Swift code with a REPL](https://developer.apple.com/swift/blog/?id=18). I seem to find myself debugging small pieces of code in the terminal on my mac while I'm working on larger things in Xcode.

@@ -4,7 +4,7 @@ Observations and resources on learning/using Swift from the perspective of R and
 ## Language Notes/Observations
 
 ### Dataframes
-I admit that the buzz around Swift as an up and coming language for data science caught my attention. While Swift does have support for [Tensorflow](https://www.tensorflow.org/swift/) and you can code in Swift in [Google's Colab](https://colab.research.google.com/notebooks/intro.ipynb), I 
+While Swift does have support for [Tensorflow](https://www.tensorflow.org/swift/) and you can code in Swift in [Google's Colab](https://colab.research.google.com/notebooks/intro.ipynb), I 
 have yet to find anything close (a pre-built solution) to R or Pandas dataframes in Swift. I'd be delighted to be corrected- just let me know! 
 
 ## Resources
